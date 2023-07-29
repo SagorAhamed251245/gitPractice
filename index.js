@@ -1,4 +1,4 @@
 let a = 5;
 let b = 5;
-const sum = a + b;
-console.log(sum);
+const sums = a + b;
+console.log(sums);
